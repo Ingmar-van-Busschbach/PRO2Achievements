@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documenten\\ma\\bewijzenmap\\periode1.1\\pro2\\opdracht2\\opdracht2.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GitHub\\PRO2Achievements\\Assignments\\Assignment 2\\opdracht2.csproj",
       "projectName": "opdracht2",
-      "projectPath": "D:\\Documenten\\ma\\bewijzenmap\\periode1.1\\pro2\\opdracht2\\opdracht2.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\Documents\\GitHub\\PRO2Achievements\\Assignments\\Assignment 2\\opdracht2.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "D:\\Documenten\\ma\\bewijzenmap\\periode1.1\\pro2\\opdracht2\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Documents\\GitHub\\PRO2Achievements\\Assignments\\Assignment 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
