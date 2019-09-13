@@ -1,0 +1,11 @@
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.deps.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.runtimeconfig.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.runtimeconfig.dev.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.dll
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.pdb
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.csprojAssemblyReference.cache
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.csproj.CoreCompileInputs.cache
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.AssemblyInfoInputs.cache
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.AssemblyInfo.cs
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.dll
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.pdb
