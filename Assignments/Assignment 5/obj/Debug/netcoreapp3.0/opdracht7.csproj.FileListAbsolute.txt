@@ -1,0 +1,11 @@
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.csprojAssemblyReference.cache
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.AssemblyInfoInputs.cache
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.AssemblyInfo.cs
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.exe
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.deps.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.runtimeconfig.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.runtimeconfig.dev.json
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.dll
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\bin\Debug\netcoreapp3.0\opdracht7.pdb
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.dll
+D:\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.pdb
